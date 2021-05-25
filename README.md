@@ -1,4 +1,4 @@
-# 350-901 DEVCOR Exam Study Plan
+# 350-901 DEVCOR Exam Study Resources
 
 This document outlines resources used to study for the Cisco 350-901 DEVCOR exam. Each exam topic has one or more resources mapped to it for study purposes.
 
