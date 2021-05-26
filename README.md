@@ -19,6 +19,9 @@ This document is an ever-evolving work in progress and will be regularly updated
 * [Design Principles and Design Patterns - Robert C. Martin](https://fi.ort.edu.uy/innovaportal/file/2032/1/design_principles.pdf)
 * [SOLID Principles of Object-Oriented Programming - Wikipedia](https://en.wikipedia.org/wiki/SOLID)
 * [A Pythonic Guide to SOLID Design Principles](https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i)
+* [Software Configuration Management - Wikipedia](https://en.wikipedia.org/wiki/Software_configuration_management)
+* [Configuration Management: Definition and Benefits - Atlassian](https://www.atlassian.com/continuous-delivery/principles/configuration-management)
+* [What is Configuration Management? - Red Hat](https://www.redhat.com/en/topics/automation/what-is-configuration-management)
 
 ### 1.6 Evaluate an application design and implementation considering observability
 
